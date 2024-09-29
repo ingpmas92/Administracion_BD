@@ -1,9 +1,4 @@
-
 ## **Introducción a la Administración de Bases de Datos y Funciones del Administrador** 🗄️👨‍💻
-
-### Duración Estimada: 1 hora 30 minutos ⏳
-
----
 
 ### **Evolución Histórica** 🕰️
 
@@ -142,5 +137,3 @@ Un ejemplo de IA en bases de datos es Amazon, que usa algoritmos para analizar e
 La administración de bases de datos no solo trata de almacenar información 🗄️, sino de asegurarse de que esta sea confiable, segura 🔐 y esté disponible para quienes la necesiten 👥. La práctica constante con ejercicios 🧩 y el análisis de casos de estudio 📚 ayudará a desarrollar una comprensión profunda de cada tema 🧠.
 
 ---
-
-He añadido emojis a tu resumen para hacerlo más visualmente atractivo 😊. Espero que te guste! 😄

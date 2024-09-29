@@ -1,4 +1,4 @@
-## Resumen Dinámico de la Clase de Administración de Bases de Datos 🗄️💻
+## Sistemas Gestores de Bases de Datos (SGBD)🗄️💻
 
 En esta clase, el profesor introduce los **Sistemas Gestores de Bases de Datos (SGBD)**, tanto tradicionales como en la nube. Se enfoca en las ventajas de la nube, comparando AWS (Amazon Web Services) y Azure (Microsoft).
 
